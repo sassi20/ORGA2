@@ -1,0 +1,115 @@
+== Ejercicio 1 ==
+
+Agregar
+
+0 - []
+1 - [Mikasa]
+2 - [Mikasa,Eren]
+3 - [Mikasa,Eren,Levi]
+
+Get
+
+3 - [Mikasa,Eren,Levi]
+Mikasa
+Eren
+Levi
+(null)
+
+Quitar
+
+2 - [Eren,Levi] - Mikasa
+1 - [Eren] - Levi
+0 - [] - Eren
+
+Swap
+
+3 - [Eren,Levi,Levi]
+3 - [Eren,Levi,Levi]
+3 - [Eren,Levi,Levi]
+3 - [Eren,Levi,Levi]
+3 - [Levi,Levi,Eren]
+3 - [Eren,Levi,Levi]
+3 - [Levi,Levi,Eren]
+
+Agregar de mas
+
+3 - [Levi,Levi,Eren]
+4 - [Levi,Levi,Eren,Mikasa]
+5 - [Levi,Levi,Eren,Mikasa,Eren]
+6 - [Levi,Levi,Eren,Mikasa,Eren,Levi]
+7 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa]
+8 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren]
+9 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi]
+10 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin]
+11 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie]
+12 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin]
+13 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean]
+14 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha]
+15 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha,Hanji]
+16 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha,Hanji,NULL]
+17 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha,Hanji,NULL,Mikasa]
+18 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha,Hanji,NULL,Mikasa,Eren]
+19 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha,Hanji,NULL,Mikasa,Eren,Levi]
+20 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha,Hanji,NULL,Mikasa,Eren,Levi,Erwin]
+20 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha,Hanji,NULL,Mikasa,Eren,Levi,Erwin]
+20 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha,Hanji,NULL,Mikasa,Eren,Levi,Erwin]
+20 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha,Hanji,NULL,Mikasa,Eren,Levi,Erwin]
+20 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha,Hanji,NULL,Mikasa,Eren,Levi,Erwin]
+20 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha,Hanji,NULL,Mikasa,Eren,Levi,Erwin]
+20 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha,Hanji,NULL,Mikasa,Eren,Levi,Erwin]
+20 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha,Hanji,NULL,Mikasa,Eren,Levi,Erwin]
+20 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha,Hanji,NULL,Mikasa,Eren,Levi,Erwin]
+20 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha,Hanji,NULL,Mikasa,Eren,Levi,Erwin]
+20 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha,Hanji,NULL,Mikasa,Eren,Levi,Erwin]
+20 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha,Hanji,NULL,Mikasa,Eren,Levi,Erwin]
+20 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha,Hanji,NULL,Mikasa,Eren,Levi,Erwin]
+20 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha,Hanji,NULL,Mikasa,Eren,Levi,Erwin]
+20 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha,Hanji,NULL,Mikasa,Eren,Levi,Erwin]
+20 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha,Hanji,NULL,Mikasa,Eren,Levi,Erwin]
+20 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha,Hanji,NULL,Mikasa,Eren,Levi,Erwin]
+
+Quitar de mas
+
+20 - [Levi,Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha,Hanji,NULL,Mikasa,Eren,Levi,Erwin]
+19 - [Levi,Eren,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha,Hanji,NULL,Mikasa,Eren,Levi,Erwin] - Levi
+18 - [Levi,Mikasa,Eren,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha,Hanji,NULL,Mikasa,Eren,Levi,Erwin] - Eren
+17 - [Levi,Mikasa,Levi,Mikasa,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha,Hanji,NULL,Mikasa,Eren,Levi,Erwin] - Eren
+16 - [Levi,Mikasa,Levi,Eren,Levi,Erwin,Annie,Armin,Jean,Sasha,Hanji,NULL,Mikasa,Eren,Levi,Erwin] - Mikasa
+15 - [Levi,Mikasa,Levi,Eren,Erwin,Annie,Armin,Jean,Sasha,Hanji,NULL,Mikasa,Eren,Levi,Erwin] - Levi
+14 - [Levi,Mikasa,Levi,Eren,Erwin,Armin,Jean,Sasha,Hanji,NULL,Mikasa,Eren,Levi,Erwin] - Annie
+13 - [Levi,Mikasa,Levi,Eren,Erwin,Armin,Sasha,Hanji,NULL,Mikasa,Eren,Levi,Erwin] - Jean
+12 - [Levi,Mikasa,Levi,Eren,Erwin,Armin,Sasha,NULL,Mikasa,Eren,Levi,Erwin] - Hanji
+11 - [Levi,Mikasa,Levi,Eren,Erwin,Armin,Sasha,NULL,Eren,Levi,Erwin] - Mikasa
+10 - [Levi,Mikasa,Levi,Eren,Erwin,Armin,Sasha,NULL,Eren,Erwin] - Levi
+10 - [Levi,Mikasa,Levi,Eren,Erwin,Armin,Sasha,NULL,Eren,Erwin] - (null)
+9 - [Mikasa,Levi,Eren,Erwin,Armin,Sasha,NULL,Eren,Erwin] - Levi
+8 - [Mikasa,Eren,Erwin,Armin,Sasha,NULL,Eren,Erwin] - Levi
+7 - [Mikasa,Eren,Armin,Sasha,NULL,Eren,Erwin] - Erwin
+6 - [Mikasa,Eren,Armin,NULL,Eren,Erwin] - Sasha
+5 - [Mikasa,Eren,Armin,NULL,Erwin] - Eren
+5 - [Mikasa,Eren,Armin,NULL,Erwin] - (null)
+5 - [Mikasa,Eren,Armin,NULL,Erwin] - (null)
+5 - [Mikasa,Eren,Armin,NULL,Erwin] - (null)
+5 - [Mikasa,Eren,Armin,NULL,Erwin] - (null)
+5 - [Mikasa,Eren,Armin,NULL,Erwin] - (null)
+5 - [Mikasa,Eren,Armin,NULL,Erwin] - (null)
+4 - [Eren,Armin,NULL,Erwin] - Mikasa
+3 - [Eren,NULL,Erwin] - Armin
+2 - [Eren,NULL] - Erwin
+2 - [Eren,NULL] - (null)
+2 - [Eren,NULL] - (null)
+2 - [Eren,NULL] - (null)
+2 - [Eren,NULL] - (null)
+2 - [Eren,NULL] - (null)
+2 - [Eren,NULL] - (null)
+2 - [Eren,NULL] - (null)
+2 - [Eren,NULL] - (null)
+1 - [NULL] - Eren
+0 - [] - 
+0 - [] - (null)
+
+Delete
+
+0 - []
+11 - [NULL,NULL,Erwin,Erwin,Erwin,Erwin,Erwin,Erwin,Erwin,Erwin,Erwin]
+

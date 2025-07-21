@@ -1,0 +1,8 @@
+*.o
+test
+test_abi
+test_abi_ej1
+test_abi_ej2
+test_abi_ej3
+test_asm
+test_c
